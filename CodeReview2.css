@@ -1,0 +1,166 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	width: 940px;
+	margin: 20px auto;
+	background-color: #E4EAEE;
+}
+.clear{
+	clear: both;
+}
+
+/*.container
+{
+	width: 940px;
+	margin: 20px auto;
+	background-color: #E4EAEE;
+
+}*/
+
+
+/* Head */
+header
+{
+
+height: 75px;
+background-color: #072C82;
+}
+header #logo
+{
+	width: 75px;
+	height: 75px;
+	float: left;
+	padding: 5px 0 0 40px;
+	
+}
+header #title
+{
+	width: 80%;
+	padding-top: 15px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+/* -- Boxes -- */
+.AM 
+ {
+  position: absolute;
+  flex-wrap: wrap;
+  width: 450px;
+  float: left;
+  
+  background-color: white;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 20px;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+.LO
+ {
+  position: inherit;
+  flex-wrap: wrap;
+  width: 450px;
+  float: right;
+  
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 20px;
+  margin-top: 30px;
+}
+
+/* -- Photo Title --*/
+
+#Averge
+{
+	clear: both;
+
+	position: relative;
+	float: right;
+	margin-top: -30px;
+	margin-right: 0px;
+	padding-right: 5px;
+	font-family: sans-serif;
+	font-size: 22px;
+	color: #767676;
+
+}
+#al 
+{
+	position: relative;
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+	font-family: sans-serif;
+	font-size: 24px;
+	color: #767676;
+}
+#aa
+{
+	position: relative;
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+	font-family: sans-serif;
+	font-size: 24px;
+	color: #767676;
+}
+#land
+{
+	position: relative;
+	float: left;
+	margin-left: -40px;
+	margin: 5px;
+	padding-top: 40px;
+	font-family: sans-serif;
+	font-size: 22px;
+	color: #767676;
+
+}
+#name
+{
+	position: absolute;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px; 
+	font-family: sans-serif;
+	font-size: 26px;
+	color: blue;
+}
+
+#text p
+{
+	position: absolute;
+	font-size: 25px;
+	padding-top: 20px;
+}
+.button {
+	
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button4 
+{
+
+	align-content: center;
+	margin-top: 40px;
+	width: 200px;
+	height: 75px;
+	border-radius: 12px;
+}
+
+
+
+
+
